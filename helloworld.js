@@ -1,1 +1,3 @@
-print "Hello world!"
+<script>
+  alert('Hello World!');
+</script>
